@@ -1,4 +1,4 @@
-# Wrap Scraper - Diário de Bordo
+# Web Scraper - Diário de Bordo
 
 ## Libraries
 
