@@ -1,4 +1,4 @@
-# Web Scraper - Diário de Bordo
+# Webscraping - Diário de Bordo
 
 ## Libraries
 
